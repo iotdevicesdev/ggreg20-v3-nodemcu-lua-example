@@ -11,22 +11,22 @@ This opensource free example code is licensed under: Apache 2.0 License
 ## Usage
 
 To get results:
- 1) run script
+ 1) Run the script
 ````lua
 dofile('ggreg20_v3_nodemcu_firmware_lua_example.lua')
 ````
- 2) run init() function with parameters
+ 2) Run init() function with parameters
 ````lua
 init(3, 1, 60000)
 ````
- 3) wait for 1 minute (after first pulse from GGreg20_V3) OR just run read() function to get current values
+ 3) Wait for 1 minute (after first pulse from GGreg20_V3) OR just run read() function to get current values
 ````lua
 read()
 -- or:
 ma5_rad_lvl, cpm, minutes = read()
 ````
 
-## Full fledged driver 
+## The Full fledged driver 
 If you want to obtain ready-to-use and well commented Lua code with: 
 + debug output mode, 
 + calculation of minimum / maximum instantaneous levels, 
@@ -37,5 +37,5 @@ If you want to obtain ready-to-use and well commented Lua code with:
 as a complete Lua module with public methods registration, you may find it here: 
 https://alterstrategy.com/product/radcounter/
 
-## GGreg20_V3 on Hackaday:
+## The GGreg20_V3 Project on Hackaday:
 https://hackaday.io/project/183103-ggreg20v3-ionizing-radiation-detector
