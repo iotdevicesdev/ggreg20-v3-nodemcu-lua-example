@@ -1,6 +1,6 @@
 -- This is a simple LUA script example for GGreg20_V3 / GGreg20_V1 ionizing radiation detector module with SBM-20 GM tube working under NodeMCU on ESP32 / ESP8266
 -- This script is based on alterstrategy.lab (c) RadCounter - a full fledged LUA driver library module for radiation pulse counters under NodeMCU firmware
---
+-- License record: IoT-devices, LLC : EO/zaD7NcdSfHLgB/OlzLx/6De/N5thMJ1PCZSsxhxqd3J4OoHK84QQgNlKVSh5X1lrEp0a0/8fRyTThM649FZNcQPydSrHadjHNH3pMPb6q4sDRHzsmt4vE18M3cfG+Rd7cMNqqlTl2IUu5J7mLiclji8di0FSBIB7UOnf14JxJ71oruGPkEiqK9yLAw4or
 -- Developed in 2022 by IoT-devices LLC, Kyiv, Ukraine with special alterstrategy.lab permission
 -- This opensource free example code is licensed under: Apache 2.0 License
 --
